@@ -1,0 +1,4 @@
+1) Automatic get channelID / get it from user, but checking admin status.
+2) Make additional buttons - to get special type media post.
+3) Port cache in bd...
+4) Authorize users.
