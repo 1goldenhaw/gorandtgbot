@@ -1,5 +1,5 @@
 Hi there!
-This code in golang (was tested on version 1.19).
+This code on golang (was tested on version 1.19).
 Code - created funcional for telegram bot - to get random message from telegram channel, that the bot is admin on it.
 To start :
 1) you need to fill env by your telegram bot token (ask it from @botfather).
